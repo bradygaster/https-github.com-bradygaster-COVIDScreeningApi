@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "cosmosdb1": {
+      "resourceId": "/subscriptions/52462f3d-9226-4c1a-ae95-9a1f2b2c2e0f/resourceGroups/COVIDScreeningAPI/providers/Microsoft.DocumentDB/databaseAccounts/covid-screening-data",
+      "type": "cosmosdb.azure",
+      "connectionId": "covid-screening-data",
+      "secretStore": "LocalSecretsFile"
+    }
+  }
+}
